@@ -2,7 +2,7 @@
 
 In this project i made Password Generator which functional and ready 
 
-To make this CountDown i used ( Html, Css, JavaScript )
+To make this Password Generator i used ( Html, Css, JavaScript )
 
 In Html :
 
